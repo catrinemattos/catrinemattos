@@ -1,10 +1,9 @@
-- 👋 oi,meu nome é catrine
-- 👀 nasci no dia 15/12/2006
-- 🌱 minha profissão dos sonhos é ser atriz
-- meu signo é sargitário
-- tenho 15 anos
-- minha comida preferida é pizza
-- uma qualidade minha é ser meiga 
-- meu filme favorito é "10 coisas que odeio em você e as vantagens de ser invisível"
-- meu livro favorito é corrupt de Douglas Penelope
-- um defeito meu, não tenho infelismente, talvez meu ego
+- 👀 oi,meu nome é catrine
+- 😚 nasci no dia 15/12/2006
+- 💛 minha profissão dos sonhos é ser atriz
+- ♐ meu signo é sargitário
+- 🍸 tenho 15 anos
+- 🍕 minha comida preferida é pizza
+- 🙃 uma qualidade minha é ser meiga 
+-  meu livro favorito é corrupt de Douglas Penelope
+-  um defeito meu, não tenho infelismente, talvez meu ego
