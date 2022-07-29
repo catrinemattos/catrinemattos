@@ -5,5 +5,5 @@
 - 🍸 tenho 15 anos
 - 🍕 minha comida preferida é pizza
 - 🙃 uma qualidade minha é ser meiga 
--  meu livro favorito é corrupt de Douglas Penelope
--  um defeito meu, não tenho infelismente, talvez meu ego
+- 📚 meu livro favorito é corrupt de Douglas Penelope
+- 😎  um defeito meu, não tenho infelismente, talvez meu ego
